@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../plugins/test/src/index.ts"],"sourcesContent":["import { alert2 } from '@plugins/alert2/index.js';\r\n\r\nconsole.log('alert2', alert2);\r\nalert2('Test Alert');"],"names":["alert2"],"mappings":";;CAEA,OAAA,CAAQ,IAAI,QAAU,EAAAA,eAAA,CAAA,CAAA;AACtBA,gBAAO,CAAA,YAAA,CAAA;;;;;;"}

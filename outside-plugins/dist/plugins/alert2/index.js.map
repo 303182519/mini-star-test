@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../plugins/alert2/src/index.ts"],"sourcesContent":["export function alert2(text: string) {\r\n  alert(text);\r\n}"],"names":[],"mappings":";;EAAO,SAAA,MAAA,CAAgB,IAAc,EAAA;EACnC,EAAM,KAAA,CAAA,IAAA,CAAA,CAAA;EAAA;;;;;;;;;;"}
